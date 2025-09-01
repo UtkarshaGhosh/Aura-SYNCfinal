@@ -35,17 +35,6 @@ AuraSync is built with a modern and powerful stack:
 - **Music:** [Spotify Web API](https://developer.spotify.com/)
 - **Emotion Detection:** [face-api.js](https://github.com/justadudewhohacks/face-api.js/)
 
-## 🛠️ Getting Started: Local Development
-
-Follow these steps to set up and run AuraSync on your local machine.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or higher)
-- [npm](https://www.npmjs.com/) (or yarn/pnpm)
-- A [Supabase](https://supabase.com/) account
-- A [Spotify Developer](https://developer.spotify.com/) account
-
 ### 1. Clone the Repository
 
 ```bash
